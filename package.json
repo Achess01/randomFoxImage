@@ -11,5 +11,25 @@
     "pretty-quick": "^3.1.0",
     "snowpack": "^3.0.11",
     "tailwindcss": "^2.0.2"
-  }
+  },
+  "name": "workshop-2-lazy",
+  "description": "> ✨ Bootstrapped with Create Snowpack App (CSA).",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Achess01/randomFoxImage.git"
+  },
+  "keywords": [
+    "Random",
+    "Image",
+    "Fox"
+  ],
+  "author": "Alexander Tzoc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Achess01/randomFoxImage/issues"
+  },
+  "homepage": "https://github.com/Achess01/randomFoxImage"
 }
